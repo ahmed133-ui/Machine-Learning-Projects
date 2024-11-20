@@ -4,7 +4,7 @@ Welcome to my curated collection of machine learning projects—a testament to m
 
 🌟 Featured Projects:
 
-🎥 Movie Recommendation System
+🎥 Movie Recommendation System:
 
 Personalized entertainment, reimagined! This system uses collaborative filtering to deliver tailored movie recommendations, showcasing the power of user-item interaction data.
 
